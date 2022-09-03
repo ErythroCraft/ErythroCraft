@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErythroCraft
+- 👋 Hi, I’m @Hinterix the owner of ErythroCraft.
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning build servers and recources about server buildings
 - 💞️ I’m looking to collaborate on all stuffs for websites, self hosting and scipting languages
